@@ -37,7 +37,7 @@ googleさんの[mediapipeリポジトリ](https://github.com/google/mediapipe)�
 クリックすると宮沢賢治先生(イラスト屋)が出現  
 <img src='スクリーンショット 2020-01-19 16.34.32.png' width="200">  
 
-<iframe src="https://www.openprocessing.org/sketch/825171/embed/" width="400" height="300"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/825171/embed/" width="600" height="450"></iframe>
 
 # Contact
 - [C3PO@twitter](https://twitter.com/Lxq0yuYAn3SWq0n)  
