@@ -15,9 +15,10 @@ googleさんの[mediapipeリポジトリ](https://github.com/google/mediapipe)�
 - 日本在住
 - [N予備](https://www.nnn.ed.nico/)はいいぞ!
 - イチオシの実況者
-  - [その1](https://www.youtube.com/channel/UCWjMcryWbmnr1ZW0O1BFprA)
-  - [その2](https://www.youtube.com/channel/UCj9IZnU2bKqGqABhQUU6F8g)
-  - [その3](https://www.youtube.com/user/sifue)
+  - [その1](https://www.youtube.com/channel/UCWjMcryWbmnr1ZW0O1BFprA)  [![](https://img.youtube.com/vi/KCfHW9vjSkI/0.jpg)](https://www.youtube.com/watch?v=KCfHW9vjSkI)
+  - [その2](https://www.youtube.com/channel/UCj9IZnU2bKqGqABhQUU6F8g)  [![](https://img.youtube.com/vi/-S9j9S9xMe4/0.jpg)](https://www.youtube.com/watch?v=-S9j9S9xMe4)
+  - [その3](https://www.youtube.com/user/sifue)  [![](https://img.youtube.com/vi/5_kgKnDTdH0/0.jpg)](https://www.youtube.com/watch?v=5_kgKnDTdH0)
+  
 
 # Skills
 - OS(Windows,Mac,WSL)
