@@ -1,5 +1,5 @@
 # About
-プログラミング初心者です！
+github.ioすごE
 
 ## 特技
 親指を手の甲にくっつけられます
@@ -50,3 +50,10 @@ googleさんの[mediapipeリポジトリ](https://github.com/google/mediapipe)�
 <!---
   コメント
 -->
+
+
+<div id="display">
+<script>
+  const displayE = document.getElementById("display");
+  displayE.innerText = `現在の時刻は${Date.now()} です。`;
+</script>
