@@ -39,7 +39,7 @@ googleさんの[mediapipeリポジトリ](https://github.com/google/mediapipe)�
 
 # Contact
 - [C3PO@twitter](https://twitter.com/Lxq0yuYAn3SWq0n)  
-<a class="twitter-timeline" data-width="400" data-height="550" data-theme="light" href="https://twitter.com/Lxq0yuYAn3SWq0n?ref_src=twsrc%5Etfw">Tweets by Lxq0yuYAn3SWq0n</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="550" data-theme="light" href="https://twitter.com/Lxq0yuYAn3SWq0n?ref_src=twsrc%5Etfw">Tweets by Lxq0yuYAn3SWq0n</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/shu223?ref_src=twsrc%5Etfw">@shu223</a>さんのiOSデプス詳解もついに届いたことだしばちこりSwiftお勉強して行くぞ💪 <a href="https://t.co/PgpsB3QM3n">pic.twitter.com/PgpsB3QM3n</a></p>&mdash; C3PO (@Lxq0yuYAn3SWq0n) <a href="https://twitter.com/Lxq0yuYAn3SWq0n/status/1218032528235192320?ref_src=twsrc%5Etfw">January 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 # History
