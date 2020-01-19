@@ -9,6 +9,7 @@
 - さすらいのhoge 
 - 日本在住
 - [N予備](https://www.nnn.ed.nico/)はいいぞ!
+- [イチオシの実況者です](https://www.youtube.com/channel/UCWjMcryWbmnr1ZW0O1BFprA)
 
 # Skills
 - OS(Windows,Mac,WSL)
