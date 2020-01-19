@@ -7,7 +7,9 @@
 - さすらいのhoge 
 - 日本在住
 - [N予備](https://www.nnn.ed.nico/)はいいぞ!
-- [イチオシの実況者です](https://www.youtube.com/channel/UCWjMcryWbmnr1ZW0O1BFprA)
+- [イチオシの実況者](https://www.youtube.com/channel/UCWjMcryWbmnr1ZW0O1BFprA)です
+- [その2](https://www.youtube.com/channel/UCj9IZnU2bKqGqABhQUU6F8g)
+- [その3](https://www.youtube.com/user/sifue)
 
 # Skills
 - OS(Windows,Mac,WSL)
@@ -24,5 +26,8 @@
 - [C3PO@twitter](https://twitter.com/Lxq0yuYAn3SWq0n)
 
 # History
- N予備のおかげでよくわからなかったgithubを触れるようになりこのアカウントが誕生しました
+ N予備のおかげでよくわからなかったgithubを触れるようになりこのアカウントが誕生しました!
  
+<!---
+  コメント
+-->
