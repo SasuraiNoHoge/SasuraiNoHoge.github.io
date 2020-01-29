@@ -38,7 +38,8 @@ googleさんの[mediapipeリポジトリ](https://github.com/google/mediapipe)�
 <img src='スクリーンショット 2020-01-19 16.34.32.png' width="200">  
 
 <iframe src="https://www.openprocessing.org/sketch/825171/embed/" width="600" height="450"></iframe>  
-[XcodeプロジェクトをBazelでビルドしてみよう](https://sasurainohoge.github.io/ios-app-tutorial/)
+
+  - [XcodeプロジェクトをBazelでビルドしてみよう](https://sasurainohoge.github.io/ios-app-tutorial/)
 
 # Contact
 - [C3PO@twitter](https://twitter.com/Lxq0yuYAn3SWq0n)  
