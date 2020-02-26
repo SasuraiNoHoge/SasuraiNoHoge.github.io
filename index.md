@@ -34,6 +34,7 @@ googleさんの[mediapipeリポジトリ](https://github.com/google/mediapipe)�
   - [深度画像から.objファイルの作成](https://github.com/SasuraiNoHoge/createObj)
   - [sequelize使わずにnode.js使ってSQLインジェクション脆弱性再現してみた](https://github.com/SasuraiNoHoge/sqlInjection#yarn-install%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)
   - [XcodeプロジェクトをBazelでビルドしてみよう](https://sasurainohoge.github.io/ios-app-tutorial/)
+  - [Open3dを使ってスクリプトだけで3D空間のCGを撮影する](https://github.com/SasuraiNoHoge/CapturingOpen3d)
   - [Miyazawa of Cheap Galaxy](https://www.openprocessing.org/sketch/825171/)  
 クリックすると宮沢賢治先生(イラスト屋)が出現  
 <img src='スクリーンショット 2020-01-19 16.34.32.png' width="200">  
