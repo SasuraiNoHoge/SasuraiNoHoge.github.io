@@ -14,7 +14,7 @@ googleさんの[mediapipeリポジトリ](https://github.com/google/mediapipe)�
 - Ubuntu
 
 # 使用可能言語
-- C#、C++、Python、Swift、Javascript、TypeScript、HTML、CSS
+- C#、C++、Python、Swift、Javascript、TypeScript、HTML、CSS、Ruby
 
 # 使用可能フレームワーク・ライブラリ
 - React、Nuxt.js、Tailwind CSS、webpack、Jest、pybind11、flask、Django、Three.js、Rails、tensorflow、Electron
