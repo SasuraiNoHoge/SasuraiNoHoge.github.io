@@ -28,7 +28,3 @@ googleさんの[mediapipeリポジトリ](https://github.com/google/mediapipe)�
   - [Open3dを使ってスクリプトだけで3D空間のCGを撮影する](https://github.com/SasuraiNoHoge/CapturingOpen3d)
   -  [Nuxt.jsとReact、TypeScriptを用いた文字起こしアプリ](https://transcript-app.vercel.app/)
   - [Miyazawa of Cheap Galaxy](https://www.openprocessing.org/sketch/825171/)  
-クリックすると宮沢賢治先生(イラスト屋)が出現  
-<img src='スクリーンショット 2020-01-19 16.34.32.png' width="200">  
-
-<iframe src="https://www.openprocessing.org/sketch/825171/embed/" width="600" height="450"></iframe>  
