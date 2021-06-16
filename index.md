@@ -17,7 +17,7 @@ googleさんの[mediapipeリポジトリ](https://github.com/google/mediapipe)�
 - C#、C++、Python、Swift、Javascript、TypeScript、HTML、CSS
 
 # 使用可能フレームワーク・ライブラリ
-- React、Nuxt.js、Tailwind CSS、webpack、Jest、pybind11、flask、Django、Three.js、Rails、tensorflow
+- React、Nuxt.js、Tailwind CSS、webpack、Jest、pybind11、flask、Django、Three.js、Rails、tensorflow、Electron
 
 # Works
 - [GitHub](https://github.com/SasuraiNoHoge)
